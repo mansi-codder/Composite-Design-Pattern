@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2RKHktgsOqnvfbsnMSbWxIqZ3p/xda6XjtttDWR2nejaPXXHPOvnECA2FLIDgKD3+iic7a4H2qsjxs/z2zTTfg==",
+  "success": true,
+  "projectFilePath": "D:\\DesignPatterns\\pattern-behavioral-chain-of-responsibility\\pattern-structural-composite\\pattern-structural-composite\\pattern-structural-composite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MGAN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
